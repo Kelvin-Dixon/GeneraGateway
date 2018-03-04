@@ -1,0 +1,14 @@
+C:\VS2017-Projects\GeneraGateway\GeneraGateway\bin\Debug\GeneraGateway.exe.config
+C:\VS2017-Projects\GeneraGateway\GeneraGateway\bin\Debug\GeneraGateway.exe
+C:\VS2017-Projects\GeneraGateway\GeneraGateway\bin\Debug\GeneraGateway.pdb
+C:\VS2017-Projects\GeneraGateway\GeneraGateway\bin\Debug\GeneraGateway.xml
+C:\VS2017-Projects\GeneraGateway\GeneraGateway\obj\Debug\GeneraGateway.GeneraGateway.resources
+C:\VS2017-Projects\GeneraGateway\GeneraGateway\obj\Debug\GeneraGateway.Resources.resources
+C:\VS2017-Projects\GeneraGateway\GeneraGateway\obj\Debug\GeneraGateway.vbproj.GenerateResource.Cache
+C:\VS2017-Projects\GeneraGateway\GeneraGateway\obj\Debug\GeneraGateway.vbproj.CoreCompileInputs.cache
+C:\VS2017-Projects\GeneraGateway\GeneraGateway\obj\Debug\GeneraGateway.exe
+C:\VS2017-Projects\GeneraGateway\GeneraGateway\obj\Debug\GeneraGateway.xml
+C:\VS2017-Projects\GeneraGateway\GeneraGateway\obj\Debug\GeneraGateway.pdb
+C:\VS2017-Projects\GeneraGateway\GeneraGateway\obj\Debug\GeneraGateway.ProjectInstaller.resources
+C:\VS2017-Projects\GeneraGateway\GeneraGateway\bin\Debug\GeneraGateway.exe.CodeAnalysisLog.xml
+C:\VS2017-Projects\GeneraGateway\GeneraGateway\bin\Debug\GeneraGateway.exe.lastcodeanalysissucceeded
